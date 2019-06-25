@@ -1,0 +1,11 @@
+IDEA BEHIND PROJECT
+ The idea for the following project/article occured to me while reading through a notebook provided in a Data Science course in graduate school.  We were looking a dataset where the goal was to predict leaf weight of mesquite bushes based on mainly dimensional measurements.  I recalled from physics that we can often "guess" relationships by understanding the concepts of dimensional analysis.  The notebook approached the problem differently, by taking the log of each feature and the target and then running regression.  I was curious of other techniques and in my search, found that the data set is used in "Data Analysis Using Regression and Multilevel/Hierarchical Models" by Gelman and Hill.  The author took a similar approach as my instructor so I decided to see dimensional analysis conecpts could help.
+ 
+OUTLINE
+ The jupyter notebook includes the whole project (the html file does as well).  In the project, I start by explaining the basics of dimensional analysis and then delve into the mesquite dataset as an example.
+ 
+FILES:
+* mesquite.ipynb - the jupyter notebook containing the project
+* mesquite.html - the notebook converted to html file with embedded images
+* mesquite.tsv - the data file
+* plot - files containing the figures used in the project
